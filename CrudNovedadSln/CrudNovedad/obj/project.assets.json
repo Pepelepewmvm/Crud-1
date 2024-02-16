@@ -4664,24 +4664,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sergio.gallego\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\sebastian.pena\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dotnet\\CrudNovedad\\CrudNovedadSln\\CrudNovedad\\CrudNovedad.csproj",
+      "projectUniqueName": "C:\\mvm\\Proyectos\\Crud\\CrudNovedadSln\\CrudNovedad\\CrudNovedad.csproj",
       "projectName": "CrudNovedad",
-      "projectPath": "D:\\Dotnet\\CrudNovedad\\CrudNovedadSln\\CrudNovedad\\CrudNovedad.csproj",
-      "packagesPath": "C:\\Users\\sergio.gallego\\.nuget\\packages\\",
-      "outputPath": "D:\\Dotnet\\CrudNovedad\\CrudNovedadSln\\CrudNovedad\\obj\\",
+      "projectPath": "C:\\mvm\\Proyectos\\Crud\\CrudNovedadSln\\CrudNovedad\\CrudNovedad.csproj",
+      "packagesPath": "C:\\Users\\sebastian.pena\\.nuget\\packages\\",
+      "outputPath": "C:\\mvm\\Proyectos\\Crud\\CrudNovedadSln\\CrudNovedad\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\sergio.gallego\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\sebastian.pena\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4689,7 +4684,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

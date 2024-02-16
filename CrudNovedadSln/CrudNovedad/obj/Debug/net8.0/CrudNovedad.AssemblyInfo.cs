@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudNovedad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d5d8a9f6f792bd83d432a282b3c7b91bf6944dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudNovedad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudNovedad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
